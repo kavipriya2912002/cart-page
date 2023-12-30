@@ -53,7 +53,7 @@ function Card() {
                         </div>
                         </div>
 
-                                        <hr />
+                                        <hr style={{marginRight:"20px",marginLeft:'20px'}} />
                         <div className="second">
                                         <div className='d-flex justify-content-between align-items-center'>
                                             <b>SubTotal :</b> 
